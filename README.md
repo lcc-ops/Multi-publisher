@@ -167,9 +167,9 @@ Socicat 让你**一次编辑，一键发布到所有平台**，并提供**自动
 
 ### 下载
 
-https://pan.quark.cn/s/356400526e16?pwd=53qR 
+https://pan.quark.cn/s/bf6388b9a010?pwd=uNqD
 
-截止2026.6.28 的v0.4.1 为免费版本不再需要激活码，如果后续有更新欢迎关注b站：https://space.bilibili.com/334431401
+如果后续有更新欢迎关注b站：https://space.bilibili.com/334431401
 
 
 
